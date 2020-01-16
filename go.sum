@@ -5,8 +5,8 @@ github.com/AlekSi/gocoverutil v0.2.0/go.mod h1:/SQ8potkEzPK7N0+EyZi8sPtf/nK3BnHj
 github.com/beorn7/perks v0.0.0-20180321164747-3a771d992973/go.mod h1:Dwedo/Wpr24TaqPxmxbtue+5NUziq4I4S80YR8gNf3Q=
 github.com/bketelsen/logr v0.0.0-20170116012416-f3d070bdd1c5 h1:k5oblHm+AdEGmDZA1NwxXjKuinRB6WsEuloKQ3i5u5g=
 github.com/bketelsen/logr v0.0.0-20170116012416-f3d070bdd1c5/go.mod h1:to4EbfYTEzdQuHxVGz1ug+d7a3bqOjR1r02gJ1Xv4z8=
-github.com/codegangsta/cli v1.20.1-0.20190203184040-693af58b4d51 h1:onG4micSoSE6AwEVQcPY2Z2H28kf/SFG6URw3Vs9Nz8=
-github.com/codegangsta/cli v1.20.1-0.20190203184040-693af58b4d51/go.mod h1:/qJNoX69yVSKu5o4jLyXAENLRyk1uhi7zkbQ3slBdOA=
+github.com/urfave/cli v1.22.1 h1:+mkCCcOFKPnCmVYVcURKps1Xe+3zP90gSYGNfRkjoIY=
+github.com/urfave/cli v1.22.1/go.mod h1:Gos4lmkARVdJ6EkW0WaNv/tZAAMe9V7XWyB60NtXRu0=
 github.com/corvus-ch/logr v0.0.0-20180917163152-45217966b77e h1:wL16/ZX3hdvCz4Xuz2oWSA9g4tV1N4sNFD3MYEUdDQM=
 github.com/corvus-ch/logr v0.0.0-20180917163152-45217966b77e/go.mod h1:vDjLhcz5/6EgBgZdQ5BxE5YAzHHkkfX8XLMPOBhlg2c=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
