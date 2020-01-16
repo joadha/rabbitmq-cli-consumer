@@ -1,9 +1,9 @@
 package consumer_test
 
 import (
-	"github.com/corvus-ch/rabbitmq-cli-consumer/consumer"
-	"github.com/corvus-ch/rabbitmq-cli-consumer/delivery"
-	"github.com/corvus-ch/rabbitmq-cli-consumer/processor"
+	"github.com/joadha/rabbitmq-cli-consumer/consumer"
+	"github.com/joadha/rabbitmq-cli-consumer/delivery"
+	"github.com/joadha/rabbitmq-cli-consumer/processor"
 	"github.com/streadway/amqp"
 	"github.com/stretchr/testify/mock"
 )

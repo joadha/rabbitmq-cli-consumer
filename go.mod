@@ -1,4 +1,4 @@
-module github.com/corvus-ch/rabbitmq-cli-consumer
+module github.com/joadha/rabbitmq-cli-consumer
 
 require (
 	bou.ke/monkey v1.0.1

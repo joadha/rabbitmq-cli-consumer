@@ -5,8 +5,8 @@ import (
 	"testing"
 
 	log "github.com/corvus-ch/logr/buffered"
-	"github.com/corvus-ch/rabbitmq-cli-consumer/config"
-	"github.com/corvus-ch/rabbitmq-cli-consumer/consumer"
+	"github.com/joadha/rabbitmq-cli-consumer/config"
+	"github.com/joadha/rabbitmq-cli-consumer/consumer"
 	"github.com/streadway/amqp"
 	"github.com/stretchr/testify/assert"
 )

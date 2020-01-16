@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/corvus-ch/rabbitmq-cli-consumer/acknowledger"
+	"github.com/joadha/rabbitmq-cli-consumer/acknowledger"
 	"github.com/magiconair/properties/assert"
 )
 

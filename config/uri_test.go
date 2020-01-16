@@ -3,7 +3,7 @@ package config_test
 import (
 	"testing"
 
-	"github.com/corvus-ch/rabbitmq-cli-consumer/config"
+	"github.com/joadha/rabbitmq-cli-consumer/config"
 	"github.com/magiconair/properties/assert"
 )
 
