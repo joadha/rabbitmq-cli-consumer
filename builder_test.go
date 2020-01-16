@@ -3,8 +3,8 @@ package main_test
 import (
 	"testing"
 
-	"github.com/corvus-ch/rabbitmq-cli-consumer"
-	cmd "github.com/corvus-ch/rabbitmq-cli-consumer/command"
+	"github.com/joadha/rabbitmq-cli-consumer"
+	cmd "github.com/joadha/rabbitmq-cli-consumer/command"
 	"github.com/stretchr/testify/assert"
 )
 
