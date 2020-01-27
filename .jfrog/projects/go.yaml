@@ -1,0 +1,8 @@
+version: 1
+type: go
+resolver:
+  repo: jazzhr-go-virtual
+  serverId: "1"
+deployer:
+  repo: jazzhr-go-virtual
+  serverId: "1"
